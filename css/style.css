@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
 body {
   margin: 0;
-  background: lightgrey;
+  background-image: url(../image/waterbackground2);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 * {
@@ -12,7 +15,7 @@ header {
   height: 100vh;
   margin: 0;
   background-color: grey;
-  background-image: url(http://testingwebpage.droppages.com/images/blog-images/fireworks.jpg);
+  background-image: url(../image/waterbackground1);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
