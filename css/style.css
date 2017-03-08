@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
 body {
   margin: 0;
-  background-image: url("../image/waterbackground2");
+  background-image: url("../image/waterbackground2.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -15,7 +15,7 @@ header {
   height: 100vh;
   margin: 0;
   background-color: grey;
-  background-image: url("../image/waterbackground1");
+  background-image: url("../image/waterbackground1.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
