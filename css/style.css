@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface')
+
+body
+	margin: 0
+	background: lightgrey
+*
+	box-sizing: border-box
+header
+	height: 100vh
+	margin: 0
+	background-color: grey
+	background-image: url(http://testingwebpage.droppages.com/images/blog-images/fireworks.jpg)
+	background-size: cover
+	background-repeat: no-repeat
+	background-attachment: fixed
+	h1
+		margin: 0
+		padding: 0 10px
+		position: relative
+		top: 50%
+		transform: translateY(-50%)
+		text-align: center
+		font-family: Abril Fatface, serif
+		font-size: 60px
+		mark
+			background: rgba(255,255,255,0.75)
+.arrow-down
+	position: absolute
+	bottom: 0
+	height: 50px
+	width: 100%
+	background-color: rgba(0,0,0,0.5)
+	text-align: center
+	line-height: 50px
+	font-size: 70px
+	color: white
+	cursor: pointer
+	font-weight: black inset
+	box-shadow: 0 0 lightgrey inset
+	transition: all 1s ease
+article
+	min-height: 100vh
+	max-width: 600px
+	margin: 0 auto
+	padding: 30px 30px 0 30px
+	p
+		margin: 0 0 30px 0
+		padding: 0
+		font-size: 25px
+		line-height: 30px
+		text-indent: 50px
