@@ -14,7 +14,6 @@ body {
 header {
   height: 100vh;
   margin: 0;
-  background-color: grey;
   background-image: url("https://github.com/AniRain/magus/blob/master/image/waterbackground1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
