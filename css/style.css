@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
 body {
   margin: 0;
-  background-image: url("https://github.com/AniRain/magus/blob/master/image/waterbackground2.jpg");
+  background-image: url("../image/waterbackground2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -14,7 +14,7 @@ body {
 header {
   height: 100vh;
   margin: 0;
-  background-image: url("https://github.com/AniRain/magus/blob/master/image/waterbackground1.jpg");
+  background-image: url("../image/waterbackground1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
