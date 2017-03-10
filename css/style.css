@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-image: url("../image/waterbackground2.jpg");
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   background-repeat: no-repeat;
  }
 
@@ -14,7 +14,7 @@ body {
 header {
   height: 100vh;
   margin: 0;
-  background-image: url("../image/waterbackground1.jpg");
+  background-image: url("../image/waterbackground3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
