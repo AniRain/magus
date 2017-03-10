@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-image: url("../image/waterbackground2.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
