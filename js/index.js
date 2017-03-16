@@ -23,3 +23,4 @@ $('.arrow-down').click(function() {
 	var header = $('header').height();
 	$('body').animate({scrollTop: header}, 2500, 'swing');
 });
+
