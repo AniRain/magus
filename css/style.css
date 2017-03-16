@@ -48,6 +48,9 @@ header h1 mark {
   box-shadow: 0 0 lightgrey inset;
   transition: all 1s ease;
 }
+.first {
+  margin: 180px 0 0 0;
+}
 
 article {
   min-height: 100vh;
